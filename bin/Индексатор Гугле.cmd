@@ -1,2 +1,2 @@
-cd \Google-Indexator
+cd \INDEXSEO.main
 python main.py
